@@ -1,0 +1,10 @@
+{    
+    "baseUrlServer":"http://localhost/employeeApp/",
+    "AutheticateServer":"http://localhost/employeeApp/authentication",
+    "EmployeeGetServer":"http://localhost/employeeApp/api/employee",
+    "EmployeeAddServer":"http://localhost/employeeApp/api/employee",    
+    "baseUrlLocal:":"http://localhost:5001/",
+    "AutheticateLocal":"http://localhost:5001/authentication",
+    "EmployeeGetLocal":"http://localhost:5001/api/employee",
+    "EmployeeAddLocal":"http://localhost:5001/api/employee"
+}
