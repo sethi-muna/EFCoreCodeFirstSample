@@ -4,4 +4,11 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="EmployeeClient\**" />
+    <Content Remove="EmployeeClient\**" />
+    <EmbeddedResource Remove="EmployeeClient\**" />
+    <None Remove="EmployeeClient\**" />
+  </ItemGroup>
+
 </Project>
